@@ -82,7 +82,7 @@ Responsive media queries
 }
 
 .bg-color{
-	background-color: rgb(255, 217, 179);
+	background-color: RGBA(0, 0, 0, 0.67);
 	min-height: 650px;
 }
 .navbar-border{
