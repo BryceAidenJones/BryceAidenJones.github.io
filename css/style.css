@@ -96,7 +96,7 @@ Responsive media queries
 .banner-text h2, .banner-text p{
 	font-size: 40px;
 	font-weight: 400;
-	font-family: 'Georgia', serif;
+	font-family: 'Comic Sans MS, sans-serif;
 }
 .banner-text h2 span{
     font-family: 'Georgia', serif;
