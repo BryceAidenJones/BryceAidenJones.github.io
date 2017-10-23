@@ -96,10 +96,10 @@ Responsive media queries
 .banner-text h2, .banner-text p{
 	font-size: 40px;
 	font-weight: 400;
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Georgia', serif;
 }
 .banner-text h2 span{
-    font-family: 'Satisfy', cursive;
+    font-family: 'Georgia', serif;
 }
 .overlay-detail{
 	margin: 0 auto;
@@ -117,7 +117,7 @@ Responsive media queries
 	border-radius: 50%;
 }
 .deco{
-	font-family: 'Satisfy', cursive;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 
 }
 #about{
