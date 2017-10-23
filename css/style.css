@@ -96,10 +96,10 @@ Responsive media queries
 .banner-text h2, .banner-text p{
 	font-size: 40px;
 	font-weight: 400;
-	font-family: 'Comic Sans MS, sans-serif;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 .banner-text h2 span{
-    font-family: 'Georgia', serif;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 .overlay-detail{
 	margin: 0 auto;
@@ -136,6 +136,7 @@ Responsive media queries
 	padding: 0px 25px 0px 0px;
 	border-right: 5px solid #BE2525;
 	font-size: 24px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 .about-text p{
 	color: #444;
