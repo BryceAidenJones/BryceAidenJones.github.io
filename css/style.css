@@ -123,7 +123,7 @@ Responsive media queries
 }
 #about{
 	background: url('../img/about me.jpg')
-	background-size: 600px 300px;
+	background-size: auto;
 	margin-bottom: -3px;
 }
 .section-padding{
