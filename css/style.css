@@ -122,7 +122,7 @@ Responsive media queries
 
 }
 #about{
-	background: url('../img/about me.jpg')
+	background: url('../img/about me.jpg') no-repeat;
 	background-size: auto;
 	margin-bottom: -3px;
 }
