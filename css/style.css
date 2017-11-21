@@ -122,8 +122,8 @@ Responsive media queries
 
 }
 #about{
-	background: url('../img/untitled-2.jpg') no-repeat; auto;
-	background-size: auto;
+	background: url('../img/untitled-2.jpg') no-repeat;
+	background-size: initial;
 	margin-bottom: -3px;
 }
 .section-padding{
