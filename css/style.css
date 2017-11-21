@@ -44,8 +44,9 @@ Responsive media queries
 .header {
     background: url('../img/banner.jpg') no-repeat fixed;
     background-size: cover;
-    min-height: 800px;
+    min-height: 630px;
     position: center;
+	margin:0 auto;
 }
 .navbar-default {
     background-color: transparent;
