@@ -122,7 +122,8 @@ Responsive media queries
 
 }
 #about{
-	background: url('../img/untitled-2.jpg') no-repeat;
+	background: url('../img/untitled-2.jpg') 
+	background-repeat: no-repeat;
 	background-size: initial;
 	margin-bottom: -3px;
 }
