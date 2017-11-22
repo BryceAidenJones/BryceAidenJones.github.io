@@ -123,7 +123,7 @@ Responsive media queries
 }
 #about{
 	background: url('../img/untitled-2.jpg') no-repeat;
-	background-size: cover;
+	background-size: initial;
 	margin-bottom: -3px;
 }
 .section-padding{
