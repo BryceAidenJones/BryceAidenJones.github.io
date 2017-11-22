@@ -123,9 +123,10 @@ Responsive media queries
 }
 #about{
 	background: url('../img/untitled-2.jpg') no-repeat;
+	background-size: 500px 250px;
 	margin-bottom: -3px;
 	background-color: #7d8c9b;
-	background-size: 500px 250px;
+	
 }
 .section-padding{
 	padding: 60px 0px;
