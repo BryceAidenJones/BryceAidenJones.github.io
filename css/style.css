@@ -123,7 +123,8 @@ Responsive media queries
 }
 #about{
 	background: url('../img/untitled-2.jpg') no-repeat;
-	background-size: 500px auto;
+	height:500;
+	width: auto;
 	margin-bottom: -3px;
 	background-color: #7d8c9b;
 }
